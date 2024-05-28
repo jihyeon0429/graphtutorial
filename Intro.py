@@ -1,5 +1,4 @@
 ## 실행 명령어: python3 -m streamlit run streamlit_test.py
-## 이거 파일명 바꾸면 실행명령어도 바뀌어야할 것 같아서 파일명을 intro.py 로 다음주 월요일즈음 같이 바꾸면 좋겠습니당당
 
 from AgensConnector import *
 from PIL import Image

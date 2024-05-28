@@ -88,8 +88,8 @@
                   
 
                   // parsing and collecting nodes and edges from the python
-                  nodes = new vis.DataSet([{"group": 1, "id": "\ud669\ub2e4\uc6b4", "label": "\ud669\ub2e4\uc6b4", "nodetype": "user", "shape": "dot", "size": 20}, {"group": 2, "id": "monitor", "label": "monitor", "nodetype": "category1", "shape": "dot", "size": 10}, {"group": 2, "id": "chair", "label": "chair", "nodetype": "category1", "shape": "dot", "size": 10}, {"group": 2, "id": "microwave", "label": "microwave", "nodetype": "category1", "shape": "dot", "size": 10}, {"group": 2, "id": "washer", "label": "washer", "nodetype": "category1", "shape": "dot", "size": 10}, {"group": 2, "id": "blanket", "label": "blanket", "nodetype": "category1", "shape": "dot", "size": 10}, {"group": 2, "id": "tv", "label": "tv", "nodetype": "category1", "shape": "dot", "size": 10}, {"group": 2, "id": "refrigerators", "label": "refrigerators", "nodetype": "category1", "shape": "dot", "size": 10}, {"group": 2, "id": "oven", "label": "oven", "nodetype": "category1", "shape": "dot", "size": 10}, {"group": 1, "id": "\ubc30\uc73c\ub738", "label": "\ubc30\uc73c\ub738", "nodetype": "user", "shape": "dot", "size": 20}, {"group": 2, "id": "air_conditioner", "label": "air_conditioner", "nodetype": "category1", "shape": "dot", "size": 10}]);
-                  edges = new vis.DataSet([{"arrows": "to", "color": "#ff6347", "from": "\ud669\ub2e4\uc6b4", "label": "cart", "to": "monitor", "width": 1}, {"arrows": "to", "color": "#1E90FF", "from": "\ud669\ub2e4\uc6b4", "label": "purchase", "to": "monitor", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ud669\ub2e4\uc6b4", "label": "view", "to": "monitor", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ud669\ub2e4\uc6b4", "label": "view", "to": "chair", "width": 1}, {"arrows": "to", "color": "#ff6347", "from": "\ud669\ub2e4\uc6b4", "label": "cart", "to": "chair", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ud669\ub2e4\uc6b4", "label": "view", "to": "microwave", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ud669\ub2e4\uc6b4", "label": "view", "to": "washer", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ud669\ub2e4\uc6b4", "label": "view", "to": "blanket", "width": 1}, {"arrows": "to", "color": "#1E90FF", "from": "\ud669\ub2e4\uc6b4", "label": "purchase", "to": "blanket", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ud669\ub2e4\uc6b4", "label": "view", "to": "tv", "width": 1}, {"arrows": "to", "color": "#1E90FF", "from": "\ud669\ub2e4\uc6b4", "label": "purchase", "to": "tv", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ud669\ub2e4\uc6b4", "label": "view", "to": "refrigerators", "width": 1}, {"arrows": "to", "color": "#1E90FF", "from": "\ud669\ub2e4\uc6b4", "label": "purchase", "to": "refrigerators", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ud669\ub2e4\uc6b4", "label": "view", "to": "oven", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ubc30\uc73c\ub738", "label": "view", "to": "microwave", "width": 1}, {"arrows": "to", "color": "#1E90FF", "from": "\ubc30\uc73c\ub738", "label": "purchase", "to": "microwave", "width": 1}, {"arrows": "to", "color": "#1E90FF", "from": "\ubc30\uc73c\ub738", "label": "purchase", "to": "refrigerators", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ubc30\uc73c\ub738", "label": "view", "to": "refrigerators", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ubc30\uc73c\ub738", "label": "view", "to": "washer", "width": 1}, {"arrows": "to", "color": "#1E90FF", "from": "\ubc30\uc73c\ub738", "label": "purchase", "to": "washer", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ubc30\uc73c\ub738", "label": "view", "to": "air_conditioner", "width": 1}, {"arrows": "to", "color": "#1E90FF", "from": "\ubc30\uc73c\ub738", "label": "purchase", "to": "air_conditioner", "width": 1}, {"arrows": "to", "color": "#f08080", "from": "\ubc30\uc73c\ub738", "label": "view", "to": "tv", "width": 1}, {"arrows": "to", "color": "#ff6347", "from": "\ubc30\uc73c\ub738", "label": "cart", "to": "tv", "width": 1}, {"arrows": "to", "color": "#1E90FF", "from": "\ubc30\uc73c\ub738", "label": "purchase", "to": "tv", "width": 1}]);
+                  nodes = new vis.DataSet([]);
+                  edges = new vis.DataSet([]);
 
                   nodeColors = {};
                   allNodes = nodes.get({ returnType: "Object" });
@@ -100,7 +100,35 @@
                   // adding nodes and edges to the graph
                   data = {nodes: nodes, edges: edges};
 
-                  var options = {"physics": {"minVelocity": 0.75, "solver": "repulsion"}};
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
 
                   
 
