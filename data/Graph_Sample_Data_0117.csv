@@ -1,0 +1,1254 @@
+PAGE_ID,PAGE_NM,EVT_ID,EVT_NM,NEXT_PAGE_ID,NEXT_PAGE_NM,CNT
+113,,3402,,601,,8
+113,,3402,,501,,176
+113,,3402,,401,,10
+113,,3402,,411,,1
+113,,3420,,113,,15
+705,,5101,,501,,2
+705,,5101,,705,,2
+705,,5101,,703,,15
+705,,5101,,508,,4
+705,,5101,,707,,1
+510,,5237,,508,,1
+510,,5238,,705,,18
+510,,5238,,703,,5
+510,,5238,,510,,8
+510,,5238,,508,,3
+511,,5241,,511,,13
+511,,5241,,509,,6
+502,,5566,,501,,1
+502,,5566,,502,,2
+502,,5566,,601,,2
+503,,5567,,507,,7
+503,,5568,,503,,1
+503,,5569,,508,,1
+507,,5570,,503,,6
+507,,5572,,507,,4
+610,,6161,,607,,14
+610,,6161,,509,,5
+610,,6161,,501,,1
+610,,6161,,601,,39
+611,,6162,,601,,40
+611,,6162,,607,,21
+612,,6166,,601,,18
+612,,6166,,607,,1
+613,,6167,,607,,1
+613,,6167,,509,,1
+613,,6167,,601,,3
+614,,6168,,601,,33
+614,,6168,,607,,22
+704,,7128,,704,,24
+704,,7128,,702,,11
+808,,8207,,401,,1
+808,,8208,,401,,4
+808,,8208,,808,,1
+813,,8321,,801,,1
+411,,4201,,411,,180
+411,,4202,,401,,1
+411,,4202,,411,,69
+411,,4202,,701,,1
+411,,4203,,401,,1
+411,,4203,,411,,6
+411,,4204,,411,,1
+411,,4205,,501,,3
+411,,4205,,411,,329
+411,,4205,,401,,2
+411,,4205,,412,,200
+411,,4206,,401,,7
+411,,4206,,701,,1
+411,,4206,,501,,1
+411,,4206,,411,,47
+411,,4207,,411,,194
+411,,4208,,411,,2
+411,,4209,,501,,4
+411,,4209,,411,,18
+411,,4209,,508,,2
+411,,4209,,601,,7
+411,,4209,,401,,21
+411,,4209,,703,,1
+411,,4209,,851,,1
+701,,1704,,701,,2
+701,,1704,,411,,1
+701,,5101,,701,,3
+701,,5101,,401,,2
+701,,5101,,851,,2
+701,,5101,,601,,3
+701,,5101,,501,,2
+701,,5101,,411,,1
+701,,5101,,508,,1
+701,,5101,,509,,1
+701,,7102,,702,,18
+701,,7102,,411,,1
+701,,7102,,401,,1
+701,,7102,,601,,1
+701,,7102,,701,,4
+701,,7103,,707,,15
+701,,7103,,601,,11
+701,,7103,,703,,627
+701,,7103,,501,,3
+701,,7103,,851,,1
+701,,7103,,508,,3
+701,,7103,,701,,167
+701,,7103,,706,,131
+701,,7105,,701,,41
+816,,8325,,816,,155
+816,,8325,,501,,2
+816,,8325,,401,,2
+816,,8326,,501,,1
+816,,8326,,452,,1
+816,,8326,,816,,34
+816,,8327,,501,,1
+816,,8327,,816,,1
+801,,5101,,120,,1
+801,,5101,,851,,1
+801,,5101,,508,,1
+801,,5101,,401,,25
+801,,8106,,801,,6
+801,,8107,,401,,1
+801,,8107,,801,,7
+801,,8108,,401,,1
+801,,8108,,801,,40
+801,,8109,,401,,31
+801,,8109,,120,,1
+801,,8109,,801,,119
+801,,8109,,701,,1
+801,,8109,,890,,1
+801,,8109,,601,,1
+801,,8111,,401,,4
+801,,8111,,801,,3
+801,,8113,,813,,4
+801,,8113,,801,,12
+801,,8113,,401,,4
+801,,8115,,401,,2
+801,,8115,,801,,3
+801,,8115,,120,,1
+508,,5135,,508,,1
+508,,5136,,508,,2
+508,,5146,,401,,35
+508,,5146,,601,,4
+508,,5146,,120,,2
+508,,5146,,851,,6
+508,,5146,,501,,14
+508,,5146,,503,,1
+508,,5146,,701,,5
+508,,5146,,508,,1545
+508,,5210,,501,,1
+508,,5210,,508,,7
+508,,5210,,503,,5
+508,,5211,,851,,1
+508,,5211,,601,,2
+508,,5211,,501,,4
+508,,5211,,509,,211
+508,,5211,,401,,3
+508,,5211,,508,,11
+508,,5212,,601,,1
+508,,5212,,401,,2
+508,,5212,,508,,39
+508,,5212,,501,,1
+508,,5213,,508,,2
+508,,5213,,506,,5
+508,,5217,,501,,1
+508,,5217,,703,,19
+508,,5217,,508,,11
+508,,5217,,705,,1
+508,,5217,,401,,1
+508,,5218,,401,,2
+508,,5218,,508,,6
+508,,5218,,601,,2
+508,,5218,,707,,3
+508,,5218,,703,,31
+508,,5541,,509,,42
+508,,5541,,401,,1
+508,,5541,,508,,4
+508,,5588,,508,,1
+508,,5590,,501,,2
+508,,5590,,113,,1
+508,,5591,,511,,4
+508,,5591,,508,,5
+508,,5591,,509,,18
+508,,5596,,508,,5
+508,,5597,,508,,10
+508,,5600,,501,,4
+508,,5600,,508,,1
+508,,8305,,508,,21
+508,,8305,,501,,155
+508,,8306,,501,,2
+508,,8306,,508,,17
+508,,8306,,601,,1
+508,,8307,,508,,10
+508,,8308,,501,,2
+508,,8310,,508,,4
+508,,8931,,508,,6
+706,,0,,706,,189
+706,,0,,703,,9
+706,,0,,401,,4
+706,,0,,701,,8
+706,,0,,707,,2
+706,,5101,,706,,3
+706,,5101,,701,,59
+706,,5101,,401,,77
+706,,7120,,702,,51
+706,,7120,,701,,3
+706,,7120,,706,,20
+706,,7120,,703,,1
+706,,7120,,401,,4
+706,,7120,,601,,1
+706,,7125,,703,,3
+706,,7125,,501,,2
+706,,7125,,706,,102
+706,,7125,,708,,351
+706,,7125,,401,,8
+706,,7126,,708,,2
+706,,7301,,701,,9
+706,,7301,,401,,2
+706,,7302,,401,,29
+706,,7302,,701,,10
+706,,7501,,703,,1
+706,,7501,,706,,42
+706,,7501,,701,,2
+706,,7501,,401,,14
+706,,7502,,701,,3
+706,,7502,,703,,8
+706,,7502,,707,,1
+706,,7502,,706,,13
+706,,7502,,401,,5
+702,,7107,,501,,1
+702,,7107,,703,,2
+702,,7107,,401,,3
+702,,7107,,706,,3
+702,,7107,,702,,2
+702,,7107,,701,,2
+702,,7108,,701,,14
+702,,7108,,510,,1
+702,,7108,,401,,16
+702,,7108,,706,,16
+702,,7108,,508,,3
+702,,7108,,704,,1
+702,,7108,,601,,2
+702,,7108,,703,,15
+702,,7108,,404,,1
+702,,7108,,702,,24
+702,,7110,,702,,11
+702,,7110,,706,,1
+702,,7110,,703,,1
+702,,7111,,702,,2
+702,,7111,,401,,1
+702,,7111,,501,,1
+702,,7111,,701,,1
+702,,7115,,702,,34
+702,,7116,,702,,1
+702,,7118,,702,,3
+702,,7118,,706,,1
+702,,7119,,702,,19
+702,,7119,,706,,2
+607,,6206,,411,,1
+607,,6206,,452,,16
+607,,6206,,706,,1
+607,,6206,,703,,3
+607,,6206,,113,,2
+607,,6206,,601,,87
+607,,6206,,508,,3
+607,,6206,,607,,108
+607,,6206,,401,,38
+607,,6206,,501,,587
+607,,6208,,404,,234
+607,,6208,,851,,4
+607,,6208,,113,,7
+607,,6208,,816,,5
+607,,6208,,120,,4
+607,,6208,,411,,4
+607,,6208,,401,,1359
+607,,6208,,706,,6
+607,,6208,,452,,298
+607,,6208,,508,,14
+607,,6208,,891,,4
+607,,6208,,707,,1
+607,,6208,,703,,112
+607,,6208,,509,,1
+607,,6208,,501,,5829
+607,,6208,,814,,1
+607,,6208,,607,,600
+607,,6208,,601,,813
+607,,6208,,701,,19
+401,,0,,801,,1
+401,,0,,509,,2
+401,,0,,120,,5
+401,,0,,501,,1
+401,,0,,601,,5
+401,,0,,409,,6
+401,,0,,401,,1055
+401,,0,,508,,2
+401,,4101,,120,,3
+401,,4101,,410,,1761
+401,,4101,,401,,178
+401,,4101,,601,,5
+401,,4101,,706,,5
+401,,4101,,501,,3
+401,,4101,,508,,2
+401,,4101,,509,,1
+401,,4101,,891,,1
+401,,4103,,601,,108
+401,,4103,,452,,31874
+401,,4103,,120,,1
+401,,4103,,401,,1870
+401,,4103,,501,,14
+401,,4103,,508,,1
+401,,4103,,891,,1
+401,,4103,,404,,3337
+401,,4103,,607,,2
+401,,4104,,601,,8
+401,,4104,,401,,24
+401,,4104,,891,,1
+401,,4104,,509,,1
+401,,4105,,816,,1
+401,,4105,,409,,2129
+401,,4105,,501,,1
+401,,4105,,401,,93
+401,,4105,,508,,1
+401,,4106,,401,,661
+401,,4106,,410,,1
+401,,4106,,601,,3
+401,,4106,,501,,9
+401,,4106,,120,,1
+401,,4107,,508,,1
+401,,4107,,401,,101
+401,,4107,,501,,5
+401,,4107,,120,,2
+401,,4107,,601,,1
+401,,4108,,508,,1
+401,,4108,,120,,2
+401,,4108,,501,,1
+401,,4108,,601,,2340
+401,,4108,,401,,304
+401,,4111,,401,,21
+401,,4111,,409,,82
+401,,4112,,120,,2
+401,,4112,,401,,22
+401,,4112,,409,,31
+401,,4113,,401,,831
+401,,4114,,401,,6226
+401,,4115,,401,,1851
+401,,4126,,401,,2
+401,,4126,,856,,24
+401,,4127,,853,,27
+401,,4127,,401,,6
+401,,4501,,501,,1
+401,,4501,,401,,23
+401,,4501,,601,,1
+401,,4501,,508,,150
+401,,8331,,120,,1
+401,,8331,,401,,1
+401,,8331,,501,,1
+401,,8347,,113,,51
+401,,8347,,501,,19705
+401,,8347,,601,,19
+401,,8347,,401,,3295
+401,,8347,,508,,3
+401,,8347,,510,,1
+401,,8347,,120,,5
+401,,8347,,607,,3
+401,,8347,,701,,1
+856,,5101,,401,,9
+856,,5101,,851,,56
+856,,8551,,856,,184
+856,,8551,,851,,9
+856,,8551,,891,,1
+856,,8551,,401,,3
+856,,8552,,856,,19
+856,,8552,,851,,4
+856,,8552,,401,,5
+856,,8553,,113,,1
+856,,8553,,856,,129
+856,,8553,,401,,16
+856,,8553,,601,,1
+856,,8553,,851,,24
+856,,8553,,411,,1
+856,,8553,,501,,2
+412,,4144,,401,,13
+412,,4144,,411,,93
+412,,4144,,601,,1
+412,,4144,,501,,8
+412,,4144,,701,,2
+412,,4145,,412,,30
+412,,4146,,412,,1
+412,,4147,,401,,3
+412,,4147,,601,,1
+412,,4147,,411,,11
+601,,6101,,508,,2
+601,,6101,,509,,1
+601,,6101,,401,,119
+601,,6101,,120,,1
+601,,6101,,601,,664
+601,,6101,,452,,1
+601,,6101,,851,,5
+601,,6101,,501,,36
+601,,6101,,701,,2
+601,,6101,,607,,32
+601,,6102,,113,,64
+601,,6102,,891,,3
+601,,6102,,706,,3
+601,,6102,,411,,8
+601,,6102,,452,,76
+601,,6102,,601,,19202
+601,,6102,,707,,1
+601,,6102,,501,,5815
+601,,6102,,404,,7
+601,,6102,,401,,1728
+601,,6102,,509,,1
+601,,6102,,607,,876
+601,,6102,,890,,2
+601,,6102,,816,,2
+601,,6102,,814,,1
+601,,6102,,120,,4
+601,,6102,,851,,5
+601,,6102,,508,,10
+601,,6102,,701,,19
+601,,6103,,701,,1
+601,,6103,,508,,1
+601,,6103,,601,,4352
+601,,6103,,501,,9
+601,,6103,,801,,1
+601,,6103,,851,,3
+601,,6103,,401,,34
+601,,6103,,891,,1
+601,,6104,,401,,7
+601,,6104,,601,,1080
+601,,6104,,703,,1
+601,,6104,,501,,13
+601,,6104,,607,,46
+601,,6104,,452,,1
+601,,6106,,851,,1
+601,,6106,,501,,44
+601,,6106,,707,,1
+601,,6106,,601,,1812
+601,,6106,,452,,4
+601,,6106,,401,,9
+601,,6106,,607,,597
+601,,6111,,607,,15
+601,,6111,,601,,36
+601,,6113,,601,,1239
+601,,6113,,501,,5
+601,,6113,,607,,375
+601,,6113,,603,,675
+601,,6113,,452,,1
+601,,6114,,452,,5
+601,,6114,,601,,1759
+601,,6114,,501,,84
+601,,6114,,814,,1
+601,,6114,,508,,1
+601,,6114,,401,,12
+601,,6114,,607,,589
+601,,6114,,701,,2
+601,,6114,,120,,1
+601,,6117,,501,,1
+601,,6117,,601,,16
+601,,6117,,607,,15
+601,,6119,,607,,8
+601,,6119,,601,,6
+601,,6121,,607,,1
+601,,6121,,601,,22
+601,,6125,,601,,3
+601,,6129,,601,,9
+601,,6129,,401,,1
+601,,6129,,607,,3
+601,,6131,,601,,116
+601,,6132,,701,,1
+601,,6132,,607,,279
+601,,6132,,501,,23
+601,,6132,,601,,71
+601,,6132,,401,,3
+601,,6134,,607,,10
+601,,6134,,601,,14
+601,,6134,,501,,1
+601,,6135,,508,,1
+601,,6135,,701,,1
+601,,6135,,601,,2578
+601,,6135,,401,,11
+601,,6135,,851,,3
+601,,6135,,120,,1
+601,,6136,,601,,152
+601,,6137,,401,,2
+601,,6137,,601,,376
+601,,6146,,601,,9
+601,,6146,,607,,3
+601,,6147,,607,,68
+601,,6147,,501,,9
+601,,6147,,601,,275
+601,,6147,,602,,946
+601,,6147,,401,,2
+601,,6148,,501,,173
+601,,6148,,401,,2
+601,,6148,,601,,640
+601,,6148,,452,,4
+601,,6148,,607,,936
+601,,6149,,501,,1
+601,,6149,,601,,16
+601,,6149,,607,,6
+601,,6149,,610,,63
+601,,6150,,607,,20
+601,,6150,,601,,42
+601,,6164,,601,,46
+601,,6164,,611,,102
+601,,6164,,607,,11
+601,,6165,,601,,35
+601,,6165,,607,,23
+601,,6165,,501,,1
+601,,6172,,601,,6
+601,,6172,,607,,5
+601,,6173,,607,,1
+601,,6173,,601,,106
+601,,6174,,601,,11
+601,,6174,,612,,18
+601,,6174,,607,,1
+601,,6175,,607,,17
+601,,6175,,601,,14
+601,,6176,,601,,570
+601,,6177,,601,,292
+601,,6177,,509,,4
+601,,6177,,501,,1
+601,,6178,,601,,67
+601,,6178,,501,,1
+601,,6179,,607,,2
+601,,6179,,601,,10
+601,,6179,,509,,2
+601,,6180,,607,,62
+601,,6180,,601,,18
+601,,6180,,509,,4
+601,,6181,,601,,11
+601,,6181,,607,,21
+601,,6182,,601,,2
+601,,6182,,613,,4
+601,,6182,,607,,2
+601,,6183,,601,,6
+601,,6185,,607,,13
+601,,6185,,614,,58
+601,,6185,,601,,15
+601,,6186,,601,,7
+601,,6191,,601,,153
+601,,6191,,607,,97
+601,,6191,,501,,2
+601,,6192,,601,,267
+601,,6192,,607,,875
+601,,6192,,401,,3
+601,,6192,,501,,16
+601,,6192,,452,,1
+601,,6193,,501,,3
+601,,6193,,607,,59
+601,,6193,,601,,63
+601,,6196,,607,,54
+601,,6196,,401,,3
+601,,6196,,601,,58
+601,,6196,,501,,3
+601,,6501,,601,,8
+601,,6501,,607,,10
+601,,6511,,501,,1
+601,,6511,,601,,282
+601,,6512,,401,,3
+601,,6512,,607,,1361
+601,,6512,,501,,5
+601,,6512,,601,,364
+601,,6521,,607,,2
+601,,6521,,601,,9
+601,,6531,,509,,6
+601,,6531,,601,,850
+601,,6531,,511,,1
+601,,8311,,601,,730
+601,,8311,,401,,1
+601,,8312,,120,,1
+601,,8312,,607,,52
+601,,8312,,501,,35
+601,,8312,,401,,85
+601,,8312,,701,,1
+601,,8312,,601,,695
+601,,8312,,508,,2
+601,,8312,,452,,1
+601,,8313,,601,,672
+852,,A,,851,,4
+852,,A,,401,,3
+852,,A,,411,,1
+852,,A,,852,,171
+852,,A,,508,,1
+852,,4219,Manage contacts > Merge > Merge contacts,851,,65
+852,,4219,Manage contacts > Merge > Merge contacts,401,,6
+852,,5101,List > Updates > Up button,851,,53
+852,,8511,Manage contacts > Merge > Number tab,401,,4
+852,,8511,Manage contacts > Merge > Number tab,601,,1
+852,,8511,Manage contacts > Merge > Number tab,852,,21
+852,,8511,Manage contacts > Merge > Number tab,851,,4
+852,,8512,Manage contacts > Merge > Email tab,851,,3
+852,,8512,Manage contacts > Merge > Email tab,852,,43
+852,,8513,Manage contacts > Merge > Name tab,851,,4
+852,,8513,Manage contacts > Merge > Name tab,401,,1
+852,,8513,Manage contacts > Merge > Name tab,852,,37
+852,,8513,Manage contacts > Merge > Name tab,120,,1
+506,,5201,Details > More > Set as default > Cancel,501,,4
+506,,5202,Details > More > Set as default > Done,401,,2
+506,,5202,Details > More > Set as default > Done,508,,3
+506,,5202,Details > More > Set as default > Done,501,,24
+506,,5203,Details > More > Set as default > Set as default,506,,80
+506,,5203,Details > More > Set as default > Set as default,501,,6
+506,,5203,Details > More > Set as default > Set as default,401,,1
+506,,5204,Details > More > Set as default > Clear phone number,506,,5
+506,,5205,Details > More > Set as default > Clear email,506,,3
+410,,4601,Contacts > Drawer > Contact settings,801,,95
+410,,4602,Contacts > Drawer > Select storage in drawer,120,,2
+410,,4602,Contacts > Drawer > Select storage in drawer,601,,3
+410,,4602,Contacts > Drawer > Select storage in drawer,808,,5
+410,,4602,Contacts > Drawer > Select storage in drawer,891,,1
+410,,4602,Contacts > Drawer > Select storage in drawer,509,,1
+410,,4602,Contacts > Drawer > Select storage in drawer,401,,238
+410,,4602,Contacts > Drawer > Select storage in drawer,508,,1
+410,,4603,Contacts > Drawer > Expand group,401,,29
+410,,4603,Contacts > Drawer > Expand group,601,,1
+410,,4603,Contacts > Drawer > Expand group,410,,352
+410,,4603,Contacts > Drawer > Expand group,706,,1
+410,,4604,Contacts > Drawer > Select group in drawer,706,,175
+410,,4604,Contacts > Drawer > Select group in drawer,703,,308
+410,,4604,Contacts > Drawer > Select group in drawer,120,,3
+410,,4604,Contacts > Drawer > Select group in drawer,501,,1
+410,,4604,Contacts > Drawer > Select group in drawer,707,,7
+410,,4604,Contacts > Drawer > Select group in drawer,401,,69
+410,,4605,Contacts > Drawer > Create group in drawer,702,,13
+410,,4605,Contacts > Drawer > Create group in drawer,401,,7
+410,,4606,Contacts > Drawer > Storage button,120,,1
+410,,4606,Contacts > Drawer > Storage button,410,,338
+410,,4606,Contacts > Drawer > Storage button,601,,1
+410,,4606,Contacts > Drawer > Storage button,401,,32
+410,,4606,Contacts > Drawer > Storage button,891,,1
+410,,4607,Contacts > Drawer > Companies,401,,3
+410,,4607,Contacts > Drawer > Companies,410,,22
+410,,4610,Contacts > Drawer > Manage contacts,401,,37
+410,,4610,Contacts > Drawer > Manage contacts,851,,261
+410,,4611,Contacts > Drawer > Trash,401,,37
+410,,4611,Contacts > Drawer > Trash,411,,164
+410,,4611,Contacts > Drawer > Trash,601,,1
+404,,4551,List > Search > Select recent searches,404,,70
+404,,4551,List > Search > Select recent searches,401,,111
+404,,4551,List > Search > Select recent searches,601,,1
+404,,4551,List > Search > Select recent searches,120,,2
+404,,4551,List > Search > Select recent searches,452,,1711
+404,,4552,List > Search > Delete recent searches,452,,39
+404,,4552,List > Search > Delete recent searches,401,,19
+404,,4552,List > Search > Delete recent searches,404,,305
+404,,4553,List > Search > Clear search history,401,,29
+404,,4553,List > Search > Clear search history,452,,151
+404,,4553,List > Search > Clear search history,601,,2
+404,,4553,List > Search > Clear search history,404,,32
+404,,4554,List > Search,601,,3
+404,,4554,List > Search,404,,170
+404,,4554,List > Search,452,,1382
+404,,4554,List > Search,401,,72
+404,,5101,List > Updates > Up button,401,,307
+404,,5101,List > Updates > Up button,509,,1
+404,,5101,List > Updates > Up button,120,,3
+404,,5101,List > Updates > Up button,601,,5
+854,,5101,List > Updates > Up button,851,,16
+854,,8121,Manage > Export > OK,854,,4
+854,,8531,Manage > Export > Export contacts to,601,,1
+854,,8531,Manage > Export > Export contacts to,851,,4
+854,,8531,Manage > Export > Export contacts to,854,,44
+854,,8532,Manage > Export > Export,851,,5
+854,,8532,Manage > Export > Export,803,,4
+854,,8532,Manage > Export > Export,401,,2
+854,,8532,Manage > Export > Export,701,,1
+854,,8532,Manage > Export > Export,854,,22
+853,,5101,List > Updates > Up button,401,,8
+853,,5101,List > Updates > Up button,851,,42
+853,,8120,Manage > Import > Import contacts from,851,,30
+853,,8120,Manage > Import > Import contacts from,853,,111
+853,,8120,Manage > Import > Import contacts from,401,,7
+853,,8521,Manage > Import > Save contact to,851,,3
+853,,8521,Manage > Import > Save contact to,853,,51
+853,,8522,Manage > Import > Import,803,,7
+853,,8522,Manage > Import > Import,851,,6
+853,,8522,Manage > Import > Import,401,,1
+853,,8522,Manage > Import > Import,701,,1
+853,,8522,Manage > Import > Import,853,,28
+851,,5101,List > Updates > Up button,891,,2
+851,,5101,List > Updates > Up button,509,,3
+851,,5101,List > Updates > Up button,851,,10
+851,,5101,List > Updates > Up button,120,,1
+851,,5101,List > Updates > Up button,411,,3
+851,,5101,List > Updates > Up button,401,,86
+851,,5101,List > Updates > Up button,501,,7
+851,,5101,List > Updates > Up button,601,,6
+851,,5101,List > Updates > Up button,701,,2
+851,,8102,Manage contacts > Import/Export contacts,890,,1
+851,,8102,Manage contacts > Import/Export contacts,401,,9
+851,,8102,Manage contacts > Import/Export contacts,851,,40
+851,,8102,Manage contacts > Import/Export contacts,501,,2
+851,,8102,Manage contacts > Import/Export contacts,803,,224
+851,,8103,Manage contacts > Move contacts from phone,855,,129
+851,,8103,Manage contacts > Move contacts from phone,601,,1
+851,,8103,Manage contacts > Move contacts from phone,851,,34
+851,,8103,Manage contacts > Move contacts from phone,401,,3
+851,,8104,Manage contacts > Merge contacts,851,,30
+851,,8104,Manage contacts > Merge contacts,852,,161
+851,,8104,Manage contacts > Merge contacts,401,,19
+851,,8104,Manage contacts > Merge contacts,120,,1
+851,,8104,Manage contacts > Merge contacts,501,,2
+851,,8501,Manage contacts > Sync accounts,601,,1
+851,,8501,Manage contacts > Sync accounts,856,,164
+851,,8501,Manage contacts > Sync accounts,851,,27
+851,,8501,Manage contacts > Sync accounts,501,,1
+851,,8501,Manage contacts > Sync accounts,401,,7
+509,,5221,My profile > Edit > Cancel,701,,2
+509,,5221,My profile > Edit > Cancel,401,,7
+509,,5221,My profile > Edit > Cancel,501,,2
+509,,5221,My profile > Edit > Cancel,509,,1
+509,,5221,My profile > Edit > Cancel,508,,24
+509,,5221,My profile > Edit > Cancel,607,,1
+509,,5221,My profile > Edit > Cancel,601,,1
+509,,5222,My profile > Edit > Save,401,,12
+509,,5222,My profile > Edit > Save,509,,43
+509,,5222,My profile > Edit > Save,601,,5
+509,,5222,My profile > Edit > Save,511,,2
+509,,5222,My profile > Edit > Save,501,,18
+509,,5222,My profile > Edit > Save,508,,129
+509,,5223,My profile > Edit > Remove photo,509,,16
+509,,5230,My profile > Edit > Gallery,508,,2
+509,,5230,My profile > Edit > Gallery,401,,1
+509,,5230,My profile > Edit > Gallery,701,,1
+509,,5230,My profile > Edit > Gallery,509,,65
+509,,5232,My profile > Edit > Sticker Tray,501,,1
+509,,5232,My profile > Edit > Sticker Tray,601,,1
+509,,5232,My profile > Edit > Sticker Tray,509,,27
+509,,5234,My profile > Edit > Cancel,401,,1
+509,,5234,My profile > Edit > Cancel,509,,1
+509,,5235,My profile > Edit > Discard,601,,1
+509,,5235,My profile > Edit > Discard,508,,3
+509,,5235,My profile > Edit > Discard,401,,1
+509,,5235,My profile > Edit > Discard,509,,2
+509,,5236,My profile > Edit > Save,509,,15
+509,,5240,My profile > Edit > Camera,508,,1
+509,,5240,My profile > Edit > Camera,509,,9
+509,,5249,My profile > Edit > Date,601,,13
+509,,5250,My profile > Edit > Add SIM number,509,,6
+509,,5611,My profile > Edit >Expand name field,508,,4
+509,,5611,My profile > Edit >Expand name field,509,,53
+509,,5611,My profile > Edit >Expand name field,401,,2
+509,,6111,Create contact > Add email field,509,,17
+509,,6121,Create contact > Add event,509,,3
+509,,6121,Create contact > Add event,601,,1
+509,,6125,Create contact > Add messenger accounts,509,,2
+509,,6147,Create > P.NUM field > Phone type,509,,2
+509,,6147,Create > P.NUM field > Phone type,602,,10
+509,,6148,Create > P.NUM field > Remove Phone field,509,,28
+509,,6149,Create > Email > Email type,509,,1
+509,,6149,Create > Email > Email type,610,,5
+509,,6150,Create > Email > Remove Email field,509,,3
+509,,6174,Create > event > Event type,509,,4
+509,,6174,Create > event > Event type,612,,1
+509,,6174,Create > event > Event type,601,,1
+509,,6175,Create > event > Remove event field,509,,3
+509,,6181,Create > event > Note > Remove note field,509,,2
+509,,6182,Create > messenger > Messenger type,613,,1
+509,,6182,Create > messenger > Messenger type,509,,2
+509,,6183,Create > messenger > Remove messenger account field,509,,3
+509,,6501,Create contact > Remove organisation,509,,1
+512,,5161,NA DSDS > Use default,501,,21
+512,,5161,NA DSDS > Use default,401,,1
+512,,5162,NA DSDS > SIM setting button,512,,4
+512,,5162,NA DSDS > SIM setting button,401,,1
+512,,5162,NA DSDS > SIM setting button,501,,6
+512,,5163,NA DSDS > Always use SIM1,501,,303
+512,,5163,NA DSDS > Always use SIM1,401,,5
+512,,5163,NA DSDS > Always use SIM1,452,,2
+512,,5163,NA DSDS > Always use SIM1,607,,1
+512,,5163,NA DSDS > Always use SIM1,701,,1
+512,,5163,NA DSDS > Always use SIM1,601,,2
+512,,5164,NA DSDS > Always use SIM2,401,,2
+512,,5164,NA DSDS > Always use SIM2,501,,623
+512,,5164,NA DSDS > Always use SIM2,601,,2
+501,,5038,Details > Make a video call > Video call,401,,17
+501,,5038,Details > Make a video call > Video call,452,,3
+501,,5038,Details > Make a video call > Video call,501,,22
+501,,5039,Details > Make a video call > Duo,401,,3
+501,,5039,Details > Make a video call > Duo,501,,11
+501,,5102,Details > Edit,707,,1
+501,,5102,Details > Edit,601,,3883
+501,,5102,Details > Edit,607,,10263
+501,,5102,Details > Edit,120,,1
+501,,5102,Details > Edit,401,,126
+501,,5102,Details > Edit,701,,2
+501,,5102,Details > Edit,851,,1
+501,,5102,Details > Edit,509,,2
+501,,5102,Details > Edit,703,,5
+501,,5102,Details > Edit,404,,1
+501,,5102,Details > Edit,452,,30
+501,,5102,Details > Edit,501,,538
+501,,5103,Details > Share,601,,65
+501,,5103,Details > Share,501,,1040
+501,,5103,Details > Share,401,,79
+501,,5103,Details > Share,891,,3
+501,,5103,Details > Share,851,,1
+501,,5103,Details > Share,607,,6
+501,,5103,Details > Share,452,,36
+501,,5104,Details > QR code,601,,2
+501,,5104,Details > QR code,501,,23
+501,,5104,Details > QR code,401,,2
+501,,5104,Details > QR code,502,,10
+501,,5105,Details > Favorites (Remove from favorites),120,,2
+501,,5105,Details > Favorites (Remove from favorites),501,,1250
+501,,5105,Details > Favorites (Remove from favorites),703,,5
+501,,5105,Details > Favorites (Remove from favorites),601,,17
+501,,5105,Details > Favorites (Remove from favorites),607,,1
+501,,5105,Details > Favorites (Remove from favorites),508,,2
+501,,5105,Details > Favorites (Remove from favorites),707,,1
+501,,5105,Details > Favorites (Remove from favorites),401,,170
+501,,5105,Details > Favorites (Remove from favorites),404,,1
+501,,5105,Details > Favorites (Remove from favorites),851,,1
+501,,5105,Details > Favorites (Remove from favorites),701,,2
+501,,5105,Details > Favorites (Remove from favorites),452,,22
+501,,5106,Details > Select number,452,,1
+501,,5106,Details > Select number,601,,1
+501,,5106,Details > Select number,501,,213
+501,,5107,Details > Select email,501,,93
+501,,5108,Details > Make a call,501,,520
+501,,5108,Details > Make a call,601,,1
+501,,5108,Details > Make a call,452,,24
+501,,5108,Details > Make a call,703,,2
+501,,5108,Details > Make a call,401,,36
+501,,5109,Details > Send a message to,501,,61
+501,,5109,Details > Send a message to,401,,4
+501,,5109,Details > Send a message to,607,,1
+501,,5109,Details > Send a message to,706,,1
+501,,5110,Details > Make a video call,501,,18
+501,,5111,Details > Send an email,452,,4
+501,,5111,Details > Send an email,501,,88
+501,,5111,Details > Send an email,401,,4
+501,,5111,Details > Send an email,706,,1
+501,,5116,Details > Address,401,,7
+501,,5116,Details > Address,452,,6
+501,,5116,Details > Address,501,,164
+501,,5117,Details > Web address,404,,1
+501,,5117,Details > Web address,501,,21
+501,,5118,Details > Birthday,401,,2
+501,,5118,Details > Birthday,501,,31
+501,,5118,Details > Birthday,452,,1
+501,,5119,Details > Duo,601,,1
+501,,5119,Details > Duo,501,,1
+501,,5121,Details > Video call chooser,501,,19
+501,,5121,Details > Video call chooser,508,,3
+501,,5123,Details > Recent card >Message log,501,,4
+501,,5127,Details > More > Delete,452,,2
+501,,5127,Details > More > Delete,501,,3754
+501,,5127,Details > More > Delete,401,,4
+501,,5127,Details > More > Delete,703,,1
+501,,5128,Details > More > Link to another contacts,814,,1
+501,,5128,Details > More > Link to another contacts,504,,324
+501,,5128,Details > More > Link to another contacts,120,,3
+501,,5128,Details > More > Link to another contacts,702,,1
+501,,5128,Details > More > Link to another contacts,703,,2
+501,,5128,Details > More > Link to another contacts,452,,9
+501,,5128,Details > More > Link to another contacts,851,,1
+501,,5128,Details > More > Link to another contacts,601,,24
+501,,5128,Details > More > Link to another contacts,607,,3
+501,,5128,Details > More > Link to another contacts,509,,1
+501,,5128,Details > More > Link to another contacts,501,,330
+501,,5128,Details > More > Link to another contacts,401,,62
+501,,5130,Details > More > Set as default,501,,13
+501,,5130,Details > More > Set as default,506,,53
+501,,5130,Details > More > Set as default,401,,2
+501,,5130,Details > More > Set as default,508,,1
+501,,5131,Details > More > Block contact,501,,745
+501,,5131,Details > More > Block contact,401,,1
+501,,5132,Details > More > Unblock contact,452,,4
+501,,5132,Details > More > Unblock contact,501,,108
+501,,5132,Details > More > Unblock contact,701,,1
+501,,5132,Details > More > Unblock contact,401,,4
+501,,5133,Details > Copy,452,,1
+501,,5133,Details > Copy,501,,10
+501,,5134,Details > Copy,706,,1
+501,,5134,Details > Copy,452,,15
+501,,5134,Details > Copy,401,,12
+501,,5134,Details > Copy,508,,8
+501,,5134,Details > Copy,501,,229
+501,,5134,Details > Copy,607,,1
+501,,5134,Details > Copy,601,,14
+501,,5136,Details > Set as default,501,,31
+501,,5137,Details > Block number,501,,5
+501,,5141,Details > More > Delete > Cancel,401,,3
+501,,5141,Details > More > Delete > Cancel,501,,10
+501,,5142,Details > More > Delete > Delete,401,,608
+501,,5142,Details > More > Delete > Delete,501,,956
+501,,5142,Details > More > Delete > Delete,607,,6
+501,,5142,Details > More > Delete > Delete,404,,25
+501,,5142,Details > More > Delete > Delete,891,,1
+501,,5142,Details > More > Delete > Delete,411,,55
+501,,5142,Details > More > Delete > Delete,452,,129
+501,,5142,Details > More > Delete > Delete,508,,3
+501,,5142,Details > More > Delete > Delete,120,,3
+501,,5142,Details > More > Delete > Delete,701,,3
+501,,5142,Details > More > Delete > Delete,504,,1
+501,,5142,Details > More > Delete > Delete,601,,138
+501,,5142,Details > More > Delete > Delete,706,,3
+501,,5142,Details > More > Delete > Delete,703,,264
+501,,5142,Details > More > Delete > Delete,801,,1
+501,,5143,Details > More > Block > Candel,601,,1
+501,,5143,Details > More > Block > Candel,401,,2
+501,,5143,Details > More > Block > Candel,501,,13
+501,,5143,Details > More > Block > Candel,452,,1
+501,,5144,Details > More > Block > Block,501,,199
+501,,5144,Details > More > Block > Block,452,,17
+501,,5144,Details > More > Block > Block,404,,1
+501,,5144,Details > More > Block > Block,401,,13
+501,,5144,Details > More > Block > Block,411,,1
+501,,5146,Details > Swipe up profile image,404,,12
+501,,5146,Details > Swipe up profile image,851,,2
+501,,5146,Details > Swipe up profile image,412,,2
+501,,5146,Details > Swipe up profile image,601,,81
+501,,5146,Details > Swipe up profile image,120,,1
+501,,5146,Details > Swipe up profile image,401,,605
+501,,5146,Details > Swipe up profile image,702,,1
+501,,5146,Details > Swipe up profile image,707,,1
+501,,5146,Details > Swipe up profile image,452,,229
+501,,5146,Details > Swipe up profile image,701,,3
+501,,5146,Details > Swipe up profile image,501,,13554
+501,,5146,Details > Swipe up profile image,703,,84
+501,,5146,Details > Swipe up profile image,509,,1
+501,,5146,Details > Swipe up profile image,508,,9
+501,,5146,Details > Swipe up profile image,504,,1
+501,,5146,Details > Swipe up profile image,607,,28
+501,,5148,Details > More > Select video call method > Cancel,401,,2
+501,,5148,Details > More > Select video call method > Cancel,501,,5
+501,,5148,Details > More > Select video call method > Cancel,452,,1
+501,,5149,Details > More > Select video call method > Done,404,,1
+501,,5149,Details > More > Select video call method > Done,401,,6
+501,,5149,Details > More > Select video call method > Done,501,,20
+501,,5149,Details > More > Select video call method > Done,601,,1
+501,,5149,Details > More > Select video call method > Done,452,,1
+501,,5160,NA DSDS > Set SIM card for calls,601,,2
+501,,5160,NA DSDS > Set SIM card for calls,452,,6
+501,,5160,NA DSDS > Set SIM card for calls,701,,1
+501,,5160,NA DSDS > Set SIM card for calls,401,,5
+501,,5160,NA DSDS > Set SIM card for calls,607,,2
+501,,5160,NA DSDS > Set SIM card for calls,512,,1047
+501,,5160,NA DSDS > Set SIM card for calls,501,,72
+501,,5217,My profile > Emergency medical information,703,,2
+501,,5218,My profile > Emergency contacts,703,,2
+501,,5300,Details > Make a call,508,,1
+501,,5300,Details > Make a call,452,,1022
+501,,5300,Details > Make a call,607,,11
+501,,5300,Details > Make a call,120,,1
+501,,5300,Details > Make a call,706,,1
+501,,5300,Details > Make a call,501,,4183
+501,,5300,Details > Make a call,504,,1
+501,,5300,Details > Make a call,404,,30
+501,,5300,Details > Make a call,703,,43
+501,,5300,Details > Make a call,701,,16
+501,,5300,Details > Make a call,113,,2
+501,,5300,Details > Make a call,601,,60
+501,,5300,Details > Make a call,851,,1
+501,,5300,Details > Make a call,401,,1825
+501,,5301,Details > Send a message,113,,1
+501,,5301,Details > Send a message,607,,4
+501,,5301,Details > Send a message,404,,2
+501,,5301,Details > Send a message,501,,900
+501,,5301,Details > Send a message,401,,487
+501,,5301,Details > Send a message,701,,4
+501,,5301,Details > Send a message,706,,2
+501,,5301,Details > Send a message,509,,1
+501,,5301,Details > Send a message,703,,37
+501,,5301,Details > Send a message,707,,1
+501,,5301,Details > Send a message,601,,19
+501,,5301,Details > Send a message,452,,166
+501,,5302,Details > Make a video call,404,,1
+501,,5302,Details > Make a video call,501,,45
+501,,5302,Details > Make a video call,401,,4
+501,,5303,Details > Send an email,401,,3
+501,,5303,Details > Send an email,501,,29
+501,,5304,Details > Duo,601,,1
+501,,5304,Details > Duo,501,,6
+501,,5304,Details > Duo,401,,2
+501,,5306,My profile > P. Sharing >Back up profile,501,,399
+501,,5306,My profile > P. Sharing >Back up profile,401,,7
+501,,5306,My profile > P. Sharing >Back up profile,891,,1
+501,,5306,My profile > P. Sharing >Back up profile,452,,5
+501,,5310,My profile>PS> Share my profile,501,,2
+501,,5502,Details > Relationship,501,,1
+501,,5503,Details > History,704,,1
+501,,5503,Details > History,706,,1
+501,,5503,Details > History,401,,104
+501,,5503,Details > History,701,,3
+501,,5503,Details > History,452,,43
+501,,5503,Details > History,508,,1
+501,,5503,Details > History,504,,1
+501,,5503,Details > History,703,,4
+501,,5503,Details > History,855,,1
+501,,5503,Details > History,601,,41
+501,,5503,Details > History,607,,6
+501,,5503,Details > History,404,,1
+501,,5503,Details > History,890,,1
+501,,5503,Details > History,501,,1326
+501,,5541,Details > No photo ID > Add photo ID,452,,2
+501,,5541,Details > No photo ID > Add photo ID,509,,1
+501,,5541,Details > No photo ID > Add photo ID,401,,10
+501,,5541,Details > No photo ID > Add photo ID,601,,705
+501,,5541,Details > No photo ID > Add photo ID,607,,317
+501,,5541,Details > No photo ID > Add photo ID,501,,71
+501,,5551,Details > 3rd party app > 3rd party action,601,,36
+501,,5551,Details > 3rd party app > 3rd party action,401,,95
+501,,5551,Details > 3rd party app > 3rd party action,452,,24
+501,,5551,Details > 3rd party app > 3rd party action,607,,25
+501,,5551,Details > 3rd party app > 3rd party action,501,,1106
+501,,51001,(KOR) > Details > Transfer money,501,,24
+501,,51001,(KOR) > Details > Transfer money,452,,4
+501,,51001,(KOR) > Details > Transfer money,401,,3
+501,,51002,(KOR) > Details > Send gift,452,,2
+501,,51002,(KOR) > Details > Send gift,401,,5
+501,,51002,(KOR) > Details > Send gift,501,,55
+120,,1869,Phone > Contacts Tab > Add favorites,120,,15
+120,,1869,Phone > Contacts Tab > Add favorites,508,,1
+120,,1869,Phone > Contacts Tab > Add favorites,401,,69
+120,,1869,Phone > Contacts Tab > Add favorites,601,,3
+120,,1869,Phone > Contacts Tab > Add favorites,501,,4
+120,,1870,Phone > Contacts Tab > First use > Cancel,401,,11
+120,,1870,Phone > Contacts Tab > First use > Cancel,801,,1
+120,,1871,Phone > Contacts Tab > First use > Turn on,401,,24
+452,,4561,List > Search result > Expand contacts,401,,7
+452,,4561,List > Search result > Expand contacts,452,,143
+452,,4562,List > Search result > Contact detail,607,,1
+452,,4562,List > Search result > Contact detail,501,,32728
+452,,4562,List > Search result > Contact detail,601,,11
+452,,4562,List > Search result > Contact detail,452,,1069
+452,,4562,List > Search result > Contact detail,401,,284
+452,,4562,List > Search result > Contact detail,113,,12
+452,,4562,List > Search result > Contact detail,404,,25
+452,,4563,List > Search result > Select contact,401,,47
+452,,4563,List > Search result > Select contact,409,,9
+452,,4563,List > Search result > Select contact,452,,131
+452,,4563,List > Search result > Select contact,404,,1
+452,,4563,List > Search result > Select contact,121,,577
+452,,4564,List > Search result > Make a call,501,,14
+452,,4564,List > Search result > Make a call,404,,17
+452,,4564,List > Search result > Make a call,401,,226
+452,,4564,List > Search result > Make a call,601,,3
+452,,4564,List > Search result > Make a call,452,,730
+452,,4565,List > Search result > Send a message to,452,,56
+452,,4565,List > Search result > Send a message to,401,,11
+452,,4565,List > Search result > Send a message to,501,,3
+452,,4568,List > Search result > Search bar_result screen,404,,48
+452,,4568,List > Search result > Search bar_result screen,401,,101
+452,,4568,List > Search result > Search bar_result screen,501,,2
+452,,4568,List > Search result > Search bar_result screen,601,,5
+452,,4568,List > Search result > Search bar_result screen,607,,2
+452,,4568,List > Search result > Search bar_result screen,452,,1326
+452,,4569,List > Search result > Add relationship,509,,1
+452,,4573,List > Search result > Expand contacts,452,,2
+452,,4573,List > Search result > Expand contacts,401,,1
+452,,4574,List > Search result > Select account,452,,10
+452,,4574,List > Search result > Select account,501,,12
+452,,4574,List > Search result > Select account,401,,3
+452,,5101,List > Updates > Up button,401,,645
+452,,5101,List > Updates > Up button,501,,2
+452,,5101,List > Updates > Up button,508,,3
+452,,5101,List > Updates > Up button,509,,1
+452,,5101,List > Updates > Up button,601,,8
+452,,5101,List > Updates > Up button,120,,2
+803,,5101,List > Updates > Up button,601,,1
+803,,5101,List > Updates > Up button,851,,48
+803,,5101,List > Updates > Up button,509,,1
+803,,5101,List > Updates > Up button,401,,1
+803,,8118,Manage > Import/Export > Import,853,,126
+803,,8118,Manage > Import/Export > Import,851,,6
+803,,8118,Manage > Import/Export > Import,401,,1
+803,,8119,Manage > Import/Export > Export,851,,3
+803,,8119,Manage > Import/Export > Export,854,,43
+803,,8119,Manage > Import/Export > Export,803,,4
+708,,B,,708,,17
+708,,B,,890,,16
+708,,C,,890,,1
+708,,7306,List > Groups > Member list > Send email > Select all,706,,7
+708,,7306,List > Groups > Member list > Send email > Select all,708,,244
+708,,7306,List > Groups > Member list > Send email > Select all,701,,1
+708,,7307,List > Groups > Member list > Send email > Search bar,708,,5
+708,,7307,List > Groups > Member list > Send email > Search bar,890,,4
+708,,7307,List > Groups > Member list > Send email > Search bar,706,,1
+708,,7308,List > Groups > Member list > Send email > Done,706,,111
+708,,7308,List > Groups > Member list > Send email > Done,401,,2
+708,,7308,List > Groups > Member list > Send email > Done,501,,4
+708,,7309,List > Groups > Member list > Send email > Remove,708,,3
+708,,7309,List > Groups > Member list > Send email > Remove,706,,1
+504,,5101,List > Updates > Up button,703,,2
+504,,5101,List > Updates > Up button,508,,2
+504,,5101,List > Updates > Up button,607,,1
+504,,5101,List > Updates > Up button,452,,6
+504,,5101,List > Updates > Up button,851,,1
+504,,5101,List > Updates > Up button,401,,16
+504,,5101,List > Updates > Up button,601,,18
+504,,5101,List > Updates > Up button,501,,188
+504,,5154,Details > Linked contacts > Unlink,504,,6
+504,,5154,Details > Linked contacts > Unlink,501,,4
+504,,5154,Details > Linked contacts > Unlink,401,,2
+504,,5158,Details > Linked contacts > Unlink all,401,,1
+504,,5158,Details > Linked contacts > Unlink all,501,,1
+855,,5101,List > Updates > Up button,601,,1
+855,,5101,List > Updates > Up button,607,,1
+855,,5101,List > Updates > Up button,851,,45
+855,,5101,List > Updates > Up button,401,,1
+855,,8112,Manage > Move contacts > Move contacts to,855,,63
+855,,8112,Manage > Move contacts > Move contacts to,851,,5
+855,,8112,Manage > Move contacts > Move contacts to,401,,1
+855,,8116,Manage > Move contacts > Move contacts from,501,,1
+855,,8116,Manage > Move contacts > Move contacts from,601,,1
+855,,8116,Manage > Move contacts > Move contacts from,855,,102
+855,,8116,Manage > Move contacts > Move contacts from,401,,5
+855,,8116,Manage > Move contacts > Move contacts from,851,,23
+855,,8541,Manage > Move contacts > Move,851,,16
+855,,8541,Manage > Move contacts > Move,401,,8
+855,,8541,Manage > Move contacts > Move,701,,1
+855,,8541,Manage > Move contacts > Move,855,,31
+814,,B,,890,,5
+814,,B,,814,,30
+890,,8315,Picker > Done,890,,6
+890,,8316,Picker > Contacts,501,,1
+890,,8316,Picker > Contacts,890,,35
+890,,8316,Picker > Contacts,814,,5
+890,,8316,Picker > Contacts,708,,29
+890,,8316,Picker > Contacts,601,,1
+890,,8317,Picker > Groups,890,,12
+890,,8317,Picker > Groups,706,,2
+890,,8317,Picker > Groups,701,,1
+890,,8322,Picker > Search,890,,10
+703,,0,More menu,707,,1
+703,,0,More menu,703,,9
+703,,5101,List > Updates > Up button,401,,3
+703,,5101,List > Updates > Up button,703,,8
+703,,5101,List > Updates > Up button,705,,4
+703,,5101,List > Updates > Up button,508,,11
+703,,5101,List > Updates > Up button,701,,6
+703,,5101,List > Updates > Up button,501,,2
+703,,5101,List > Updates > Up button,510,,2
+703,,7120,List > Groups > ICE > Edit,703,,12
+703,,7120,List > Groups > ICE > Edit,501,,1
+703,,7120,List > Groups > ICE > Edit,702,,19
+703,,7120,List > Groups > ICE > Edit,508,,1
+703,,7120,List > Groups > ICE > Edit,704,,8
+703,,7120,List > Groups > ICE > Edit,401,,2
+703,,7121,List > Groups > ICE > Search,703,,4
+703,,7123,List > Groups > ICE > Vew emergency contacts,510,,1
+703,,7123,List > Groups > ICE > Vew emergency contacts,601,,2
+703,,7123,List > Groups > ICE > Vew emergency contacts,401,,7
+703,,7123,List > Groups > ICE > Vew emergency contacts,508,,1
+703,,7123,List > Groups > ICE > Vew emergency contacts,706,,23
+703,,7123,List > Groups > ICE > Vew emergency contacts,703,,223
+703,,7123,List > Groups > ICE > Vew emergency contacts,701,,18
+703,,7123,List > Groups > ICE > Vew emergency contacts,501,,1476
+703,,7123,List > Groups > ICE > Vew emergency contacts,120,,1
+703,,7123,List > Groups > ICE > Vew emergency contacts,707,,7
+703,,7123,List > Groups > ICE > Vew emergency contacts,113,,2
+703,,7124,List > Groups > ICE > Add suggested contacts,701,,1
+703,,7124,List > Groups > ICE > Add suggested contacts,401,,1
+703,,7124,List > Groups > ICE > Add suggested contacts,703,,75
+703,,7124,List > Groups > ICE > Add suggested contacts,508,,1
+703,,7124,List > Groups > ICE > Add suggested contacts,501,,1
+703,,7124,List > Groups > ICE > Add suggested contacts,707,,3
+703,,7127,List > Groups > ICE > Confirm,501,,1
+703,,7127,List > Groups > ICE > Confirm,508,,6
+703,,7127,List > Groups > ICE > Confirm,510,,6
+703,,7127,List > Groups > ICE > Confirm,411,,1
+703,,7127,List > Groups > ICE > Confirm,701,,1
+703,,7127,List > Groups > ICE > Confirm,401,,1
+707,,B,,401,,1
+707,,B,,703,,5
+707,,B,,707,,54
+707,,B,,701,,2
+707,,C,,703,,3
+707,,C,,401,,1
+707,,C,,706,,2
+707,,C,,707,,67
+707,,7303,List > Groups > Member list > Selection mode > Select all,401,,1
+707,,7303,List > Groups > Member list > Selection mode > Select all,707,,1
+707,,7304,List > Groups > Member list > Selection mode > Remove,508,,1
+707,,7304,List > Groups > Member list > Selection mode > Remove,706,,2
+707,,7304,List > Groups > Member list > Selection mode > Remove,707,,10
+707,,7304,List > Groups > Member list > Selection mode > Remove,701,,6
+707,,7304,List > Groups > Member list > Selection mode > Remove,703,,13
+707,,7304,List > Groups > Member list > Selection mode > Remove,411,,1
+707,,7304,List > Groups > Member list > Selection mode > Remove,401,,2
+603,,5101,List > Updates > Up button,452,,1
+603,,5101,List > Updates > Up button,601,,441
+603,,5101,List > Updates > Up button,607,,159
+603,,6163,Create > select group > Create group,607,,1
+603,,6163,Create > select group > Create group,601,,5
+603,,6163,Create > select group > Create group,603,,104
+603,,6541,Create > select group > Cancel,607,,1
+603,,6541,Create > select group > Cancel,603,,8
+603,,6541,Create > select group > Cancel,601,,5
+603,,6542,Create > select group > Create,601,,48
+603,,6542,Create > select group > Create,603,,36
+603,,6542,Create > select group > Create,607,,10
+409,,D,,120,,1
+409,,D,,409,,4688
+409,,D,,401,,95
+409,,4210,,409,,12
+409,,4210,,401,,2
+409,,4211,,120,,2
+409,,4211,,409,,116
+409,,4211,,401,,29
+409,,4212,,401,,5
+409,,4212,,409,,1967
+409,,4213,,401,,17
+409,,4213,,409,,42
+409,,4215,,401,,4
+409,,4216,,401,,2
+409,,4218,,409,,1
+409,,4218,,401,,21
+409,,4222,,509,,1
+409,,4222,,411,,2
+409,,4222,,401,,1371
+409,,4222,,601,,20
+409,,4222,,120,,2
+409,,4223,,409,,6
+409,,4223,,401,,3
+409,,4224,,401,,57
+409,,4227,,401,,8
+409,,4227,,508,,1
+409,,4586,,121,,9
+409,,4586,,409,,15
+409,,5139,,401,,1
+409,,5139,,601,,1
+409,,5140,,409,,1
+409,,5140,,401,,1
+891,,8901,,501,,1
+891,,8901,,891,,7
+891,,8901,,401,,2
+891,,8901,,508,,1
+891,,8901,,601,,3
+891,,8902,,401,,3
+891,,8902,,601,,1
+891,,8902,,701,,1
+891,,8902,,891,,933
+891,,8902,,501,,3
+891,,8903,,701,,1
+891,,8903,,851,,4
+891,,8903,,452,,1
+891,,8903,,601,,5
+891,,8903,,501,,19
+891,,8903,,891,,650
+891,,8903,,607,,1
+891,,8903,,401,,24
+121,,1631,,452,,1
+121,,1632,,401,,113
+121,,1632,,601,,41
+121,,1632,,452,,178
+121,,1632,,404,,12
+121,,1632,,851,,1
+602,,6152,,602,,1
+602,,6152,,509,,4
+602,,6152,,601,,425
+602,,6152,,607,,228
+602,,6152,,508,,1
+602,,6152,,501,,2
+602,,6155,,601,,3
+602,,6155,,607,,1
+602,,6156,,509,,3
+602,,6156,,601,,131
+602,,6156,,607,,96
+602,,6156,,501,,1
+602,,6157,,602,,20
+602,,6159,,601,,1
+602,,6160,,601,,6
+602,,6160,,509,,2
+602,,6160,,607,,11
