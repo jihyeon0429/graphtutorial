@@ -1,7 +1,8 @@
 # 그래프데이터베이스를 적재, 조회, 분석할 수 있도록 가이드를 제시하는 튜토리얼입니다. 
 </br>
 [개발환경] </br>
-DB: Agens Graph 2.5.0 </br>
+OS: CentOS 7 (Docker Image)
+DB: Agens Graph 2.5.0 (Graph Database based on PostgreSQL) </br>
 Python 3.10.8 </br>
 conda 22.11.1 </br>
 Streamlit 1.16.0 </br>
