@@ -7,6 +7,10 @@ Python 3.10.8 </br>
 conda 22.11.1 </br>
 Streamlit 1.16.0 </br>
 </br>
+ports: streamlit 8501 / DB 5432 / jupyter notebook 8888 </br>
+Agens Graph Database가 설치 및 기동되어 있는 환경에서 해당 튜토리얼 실행 가능 </br>
+
+</br>
 </br>
 
 ## 그래프 데이터베이스 기반 추천 로직
