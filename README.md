@@ -2,11 +2,12 @@
 </br>
 [환경]
 DB: Agens Graph 2.5.0
-Python 3.10.8
-conda 22.11.1
-Streamlit 1.16.0
+Python 3.10.8 </br>
+conda 22.11.1 </br>
+Streamlit 1.16.0 </br>
 </br>
 </br>
+
 ## 그래프 데이터베이스 기반 추천 로직
 </br>
 
